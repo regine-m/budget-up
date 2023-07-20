@@ -1,0 +1,35 @@
+input[type=text],.form-select {
+    background-color: #1b243c;
+    border: none;
+    color: white;
+}
+input[type=text]:focus {
+    background-color: #121829;
+    color: white;
+}
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 0.5; /* Firefox */
+}
+.list-group li{
+    background-color: #1b243c;
+    color: white;
+    border: none;
+    margin:1px;
+    border-radius: 5px;
+}
+.cash {
+    font-family: 'Source Code Pro', monospace;
+}
+.text-green {
+    color:#8bc34a;
+}
+.text-orange {
+    color: #ff5722;
+}
+.bg-green {
+    background-color:#8bc34a;
+}
+.bg-orange {
+    background-color: #ff5722;
+}

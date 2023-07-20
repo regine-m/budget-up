@@ -1,0 +1,13 @@
+.custom-card {
+    border-radius: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+    /* box-shadow: 0 15px 25px rgba(84, 81, 81, 0.2); */
+    backdrop-filter: blur(14px);
+    background: linear-gradient(172deg, rgba(88,71,106,0.6302054268973214) 0%, rgba(41,54,91,1) 100%);
+ 
+}
+.btn-primary {
+    background-color: #1045f4 !important;
+    border-radius: 1rem !important;
+}
